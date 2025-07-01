@@ -12,7 +12,6 @@
 ### 💡 Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ### 🌐 Frontend  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -27,28 +26,27 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### ⚙️ Other Skills  
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-important?style=flat&logo=algorithm&logoColor=white)
+### 🎨 Tools & Platforms  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Interview Preparation Platform  
-A comprehensive platform to help users prepare for technical interviews with curated questions, resources, and mock interview features.
+### 🔹 [Interview Preparation Platform – PrepWiz](https://prepwiz.vercel.app/)
+An interactive platform for technical interview prep with curated questions, topic-wise organization, and mock interview experience.  
+📌 **Frontend:** Next.js + Tailwind CSS  
+🗃️ **Backend:** Node.js + Express + MongoDB  
+🌐 **Deployed on:** Vercel (Frontend) & Render (Backend)
 
-### 🔹 Convofy  
-A real-time conversation management app that includes chat, collaboration tools, and productivity features.
-
-> <!-- Additional Repositories -->
-> - MERN-VITE-TAILWIND-Template  
-> - JAVA-BYTS-training  
-> - PowerSystemAnalysis-S5  
-> - DS-1  
-> - C-plus  
-> - Learning-Stuffs  
-> - C
+### 🔹 [Convofy – Chat & Collaboration App](https://convofyy.vercel.app/)
+A real-time chat and collaboration tool built for productivity and ease of use. Features secure authentication and WebSocket-based messaging.  
+📌 **Frontend:** Next.js + Tailwind CSS  
+🗃️ **Backend:** Node.js + Express + MongoDB + Socket.IO  
+🌐 **Deployed on:** Vercel (Frontend) & Render (Backend)
 
 ---
 
@@ -70,4 +68,3 @@ A real-time conversation management app that includes chat, collaboration tools,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhinakar-shanmugam)
 
 ---
-
