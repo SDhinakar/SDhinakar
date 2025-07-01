@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm S. Dhinakar</h1>
-<h3 align="center">Full-stack Developer | Java • MERN • DevOps Learner | Final Year EEE</h3>
-
+<h3 align="center">Full-stack Developer | Java • MERN | Final Year EEE</h3>
 
 ## 🚀 About Me
 
@@ -30,16 +29,16 @@
 
 ## 🌟 Featured Projects
 
-
 ### 🧠 PrepWiz – Interview Preparation Platform  
 > A one-stop platform to prepare for tech interviews with DSA, HR prep, and mock rounds.
 
 🔗 [**Live Site**](https://prepwiz.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Interview_Prep_Frontend)
 
 **🛠️ Tech Stack:**  
-Next.js - Tailwind CSS - Node.js - Express.js - MongoDB
+<div style="background-color:#1a1a1a;padding:8px 12px;border-radius:8px;display:inline-block;">
+  Next.js – Tailwind CSS – Node.js – Express.js – MongoDB
+</div>
 
----
 
 ### 💬 Convofy – Real-time Chat App  
 > A secure chat app with login, real-time messaging, and collaboration tools.
@@ -47,7 +46,9 @@ Next.js - Tailwind CSS - Node.js - Express.js - MongoDB
 🔗 [**Live Site**](https://convofyy.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Convofy_Frontend)
 
 **🛠️ Tech Stack:**  
-Next.js - Tailwind CSS - Express.js - MongoDB - Socket.IO
+<div style="background-color:#1a1a1a;padding:8px 12px;border-radius:8px;display:inline-block;">
+  Next.js – Tailwind CSS – Express.js – MongoDB – Socket.IO
+</div>
 
 
 ## 📊 GitHub Stats
