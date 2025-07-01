@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm S. Dhinakar</h1>
 <h3 align="center">Full-stack Developer | Java • MERN • DevOps Learner | Final Year EEE</h3>
 
----
 
 ## 🚀 About Me
 
@@ -10,7 +9,6 @@
 🎯 Learning backend scalability, UI/UX with Figma, and DSA with Java  
 🎬 Movie lover & tech explorer in free time
 
----
 
 ## 🛠️ Tech Stack
 
@@ -29,11 +27,9 @@
   <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="50" title="Render" />
 </p>
 
----
 
 ## 🌟 Featured Projects
 
----
 
 ### 🧠 PrepWiz – Interview Preparation Platform  
 > A one-stop platform to prepare for tech interviews with DSA, HR prep, and mock rounds.
@@ -53,7 +49,6 @@ Next.js - Tailwind CSS - Node.js - Express.js - MongoDB
 **🛠️ Tech Stack:**  
 Next.js - Tailwind CSS - Express.js - MongoDB - Socket.IO
 
----
 
 ## 📊 GitHub Stats
 
@@ -62,7 +57,6 @@ Next.js - Tailwind CSS - Express.js - MongoDB - Socket.IO
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDhinakar&layout=compact&theme=radical" height="180" />
 </p>
 
----
 
 ## 📫 Connect With Me
 
