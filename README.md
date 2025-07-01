@@ -57,10 +57,7 @@
 
 🔗 [**Live Site**](https://convofyy.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Convofy_Frontend)
 
-**🛠️ Tech Stack:**  
-<div style="background-color:#1a1a1a;padding:8px 12px;border-radius:8px;display:inline-block;">
-  Next.js – Tailwind CSS – Express.js – MongoDB – Socket.IO
-</div>
+**🛠️ Tech Stack:**   Next.js – Tailwind CSS – Express.js – MongoDB – Socket.IO
 
 
 ## 📊 GitHub Stats
