@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm S. Dhinakar</h1>
 <h3 align="center">Full-stack Developer | Java • MERN • DevOps Learner | Final Year EEE</h3>
 
+---
 
 ## 🚀 About Me
 
@@ -9,6 +10,7 @@
 🎯 Learning backend scalability, UI/UX with Figma, and DSA with Java  
 🎬 Movie lover & tech explorer in free time
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -27,10 +29,13 @@
   <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="50" title="Render" />
 </p>
 
+---
 
 ## 🌟 Featured Projects
 
-### 🧠 PrepWiz – Interview Preparation Platform  
+---
+
+### <span style="background-color:#f0f0f0; padding: 4px 8px; border-radius: 6px;">🧠 PrepWiz – Interview Preparation Platform</span>  
 > A one-stop platform to prepare for tech interviews with DSA, HR prep, and mock rounds.
 
 🔗 [**Live Site**](https://prepwiz.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Interview_Prep_Frontend)
@@ -44,7 +49,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/> MongoDB
 </p>
 
-### 💬 Convofy – Real-time Chat App  
+---
+
+### <span style="background-color:#f0f0f0; padding: 4px 8px; border-radius: 6px;">💬 Convofy – Real-time Chat App</span>  
 > A secure chat app with login, real-time messaging, and collaboration tools.
 
 🔗 [**Live Site**](https://convofyy.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Convofy_Frontend)
@@ -58,6 +65,7 @@
   <img src="https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" /> Socket.IO
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
@@ -66,6 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDhinakar&layout=compact&theme=radical" height="180" />
 </p>
 
+---
 
 ## 📫 Connect With Me
 
