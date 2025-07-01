@@ -35,35 +35,23 @@
 
 ---
 
-### <span style="background-color:#f0f0f0; padding: 4px 8px; border-radius: 6px;">🧠 PrepWiz – Interview Preparation Platform</span>  
+### 🧠 PrepWiz – Interview Preparation Platform  
 > A one-stop platform to prepare for tech interviews with DSA, HR prep, and mock rounds.
 
 🔗 [**Live Site**](https://prepwiz.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Interview_Prep_Frontend)
 
 **🛠️ Tech Stack:**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25"/> Next.js &nbsp;
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/> Node.js &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="25"/> Express.js &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/> MongoDB
-</p>
+Next.js - Tailwind CSS - Node.js - Express.js - MongoDB
 
 ---
 
-### <span style="background-color:#f0f0f0; padding: 4px 8px; border-radius: 6px;">💬 Convofy – Real-time Chat App</span>  
+### 💬 Convofy – Real-time Chat App  
 > A secure chat app with login, real-time messaging, and collaboration tools.
 
 🔗 [**Live Site**](https://convofyy.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Convofy_Frontend)
 
 **🛠️ Tech Stack:**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25"/> Next.js &nbsp;
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="25"/> Express.js &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/> MongoDB &nbsp;
-  <img src="https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" /> Socket.IO
-</p>
+Next.js - Tailwind CSS - Express.js - MongoDB - Socket.IO
 
 ---
 
