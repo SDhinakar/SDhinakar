@@ -37,31 +37,33 @@
 
 ## 🌟 Featured Projects
 
-<details>
-  <summary>🔹 <strong>PrepWiz – Interview Preparation Platform</strong></summary>
+---
 
-🧠 A one-stop platform to prepare for tech interviews with DSA, HR prep, and mock rounds.
+### 🧠 PrepWiz – Interview Preparation Platform  
+> A one-stop platform to prepare for tech interviews with DSA, HR prep, and mock rounds.
 
-**Tech Stack:** Next.js, Tailwind CSS, Node.js, MongoDB, Express  
-**Deployed on:**  
-<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="25" title="Vercel Frontend" />  
-<img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="25" title="Render Backend" />
+🔗 [**Live Site**](https://prepwiz.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Interview_Prep_Frontend)
 
-🔗 • [GitHub Repo](https://github.com/SDhinakar/Interview_Prep_Frontend)
-</details>
+**🛠️ Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-<details>
-  <summary>🔹 <strong>Convofy – Real-time Chat App</strong></summary>
+---
 
-💬 A secure chat app with login, real-time messaging, and collaboration tools.
+### 💬 Convofy – Real-time Chat App  
+> A secure chat app with login, real-time messaging, and collaboration tools.
 
-**Tech Stack:** Next.js, Tailwind CSS, Express, MongoDB, Socket.IO  
-**Deployed on:**  
-<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="25" title="Vercel Frontend" />  
-<img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="25" title="Render Backend" />
+🔗 [**Live Site**](https://convofyy.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Convofy_Frontend)
 
-🔗 • [GitHub Repo](https://github.com/SDhinakar/Convofy_Frontend)
-</details>
+**🛠️ Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 
 ---
 
