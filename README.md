@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hi, I'm S. Dhinakar</h1>
 <h3 align="center">Full-stack Developer | Java • MERN • DevOps Learner | Final Year EEE</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SDhinakar&label=Profile+Views&color=brightgreen&style=flat" alt="SDhinakar" />
-</p>
 
 ---
 
@@ -78,8 +75,20 @@
 
 ## 📫 Connect With Me
 
+## 📫 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhinakar-shanmugam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://leetcode.com/Dhinakar_S6/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/user/dhinakar06/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dhinakar-shanmugam">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/Dhinakar_S6/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dhinakar06/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SDhinakar&label=Profile+Views&color=brightgreen&style=flat" alt="SDhinakar" />
 </p>
