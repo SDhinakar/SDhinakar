@@ -49,7 +49,7 @@
 🔗 [**Live Site**](https://prepwiz.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Interview_Prep_Frontend)
 
 
-### 💬 Convofy – Real-time Chat App  
+### 💬 Convofyy – Real-time Chat App  
 > A secure chat app with login, real-time messaging, and collaboration tools.
 
 **🛠️ Tech Stack:**   Next.js – Tailwind CSS – Express.js – MongoDB – Socket.IO
