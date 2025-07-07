@@ -1,4 +1,17 @@
-<h1 align="center">👋 Hi, I'm S. Dhinakar</h1>
+<h1 align="center">
+  <svg fill="none" stroke="url(#gradient)" stroke-width="1">
+    <defs>
+      <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stop-color="#00c6ff" />
+        <stop offset="100%" stop-color="#0072ff" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="30" font-family="Segoe UI" fill="url(#gradient)">
+      👋 Hi, I'm S. Dhinakar
+    </text>
+  </svg>
+</h1>
+
 <h3 align="center">Full-stack Developer | Java • MERN | Final Year EEE</h3>
 
 ## 🚀 About Me
@@ -12,31 +25,19 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" style="margin: 0 10px;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="margin: 0 10px;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="margin: 0 10px;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" style="margin: 0 10px;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="margin: 0 10px;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" style="margin: 0 10px;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" style="margin: 0 10px;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="margin: 0 10px;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" style="margin: 0 10px;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" style="margin: 0 10px;" />
-  &nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="50" style="margin: 0 10px;" />
-  &nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="50" style="margin: 0 10px;" title="Render" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="50" />
+  <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="50" title="Render" />
 </p>
-
 
 
 ## 🌟 Featured Projects
@@ -44,26 +45,28 @@
 ### 🧠 PrepWiz – Interview Preparation Platform  
 > A one-stop platform to prepare for tech interviews with DSA, HR prep, and mock rounds.
 
-**🛠️ Tech Stack:**  Next.js – Tailwind CSS – Node.js – Express.js – MongoDB
-
+**🛠️ Tech Stack:**  Next.js – Tailwind CSS – Node.js – Express.js – MongoDB  
 🔗 [**Live Site**](https://prepwiz.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Interview_Prep_Frontend)
 
+---
 
 ### 💬 Convofyy – Real-time Chat App  
 > A secure chat app with login, real-time messaging, and collaboration tools.
 
-**🛠️ Tech Stack:**   Next.js – Tailwind CSS – Express.js – MongoDB – Socket.IO
-
+**🛠️ Tech Stack:**  Next.js – Tailwind CSS – Express.js – MongoDB – Socket.IO  
 🔗 [**Live Site**](https://convofyy.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Convofy_Frontend)
 
 
-## 📊 GitHub Stats
+## 📊 GitHub & LeetCode Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SDhinakar&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDhinakar&layout=compact&theme=radical" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Dhinakar_S6?theme=dark&font=Montserrat&ext=activity" height="300"/>
+</p>
 
 ## 📫 Connect With Me
 
