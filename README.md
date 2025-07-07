@@ -1,18 +1,10 @@
-<h1 align="center">
-  <svg fill="none" stroke="url(#gradient)" stroke-width="1">
-    <defs>
-      <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="#00c6ff" />
-        <stop offset="100%" stop-color="#0072ff" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="30" font-family="Segoe UI" fill="url(#gradient)">
-      👋 Hi, I'm S. Dhinakar
-    </text>
-  </svg>
-</h1>
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+S.+Dhinakar;Full-stack+Developer+%7C+Java+%E2%80%A2+MERN+%7C+EEE+Final+Year" alt="Typing SVG" />
 
-<h3 align="center">Full-stack Developer | Java • MERN | Final Year EEE</h3>
+</div>
+
+---
 
 ## 🚀 About Me
 
@@ -21,10 +13,11 @@
 🎯 Learning backend scalability, UI/UX with Figma, and DSA with Java  
 🎬 Movie lover & tech explorer in free time
 
+---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
@@ -37,8 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
   <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="50" />
   <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="50" title="Render" />
-</p>
+</div>
 
+---
 
 ## 🌟 Featured Projects
 
@@ -56,21 +50,24 @@
 **🛠️ Tech Stack:**  Next.js – Tailwind CSS – Express.js – MongoDB – Socket.IO  
 🔗 [**Live Site**](https://convofyy.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Convofy_Frontend)
 
+---
 
 ## 📊 GitHub & LeetCode Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SDhinakar&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDhinakar&layout=compact&theme=radical" height="180" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dhinakar_S6?theme=dark&font=Montserrat&ext=activity" height="300"/>
-</p>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Dhinakar_S6?theme=dark&font=Fira+Code&ext=heatmap" height="270" />
+</div>
+
+---
 
 ## 📫 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/dhinakar-shanmugam">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin" />
   </a>
@@ -80,7 +77,9 @@
   <a href="https://www.geeksforgeeks.org/user/dhinakar06/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-</p>
+</div>
+
+<br />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SDhinakar&label=Profile+Views&color=brightgreen&style=flat" alt="SDhinakar" />
