@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=5000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+S.+Dhinakar;Full-stack+Developer+%7C+Java+%E2%80%A2+MERN+%7C+EEE+Final+Year" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=9999999&color=00F7FF&center=true&vCenter=true&width=1000&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+S.+Dhinakar+-+Full-stack+Developer+%7C+Java+%E2%80%A2+MERN" alt="Typing SVG" />
 
 </div>
+
 
 ---
 
@@ -54,20 +55,16 @@
 
 ## 📊 GitHub & LeetCode Stats
 
-<div align="center">
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=SDhinakar&show_icons=true&theme=radical" height="180" />
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=SDhinakar&show_icons=true&theme=radical&hide_border=false" height="200" />
 </td>
-<td>
-<img src="https://leetcard.jacoblin.cool/Dhinakar_S6?theme=dark&font=Fira+Code&ext=heatmap" height="180" />
+<td align="center" width="50%">
+<img src="https://leetcard.jacoblin.cool/Dhinakar_S6?theme=dark&font=Fira+Code" height="200" />
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
