@@ -41,16 +41,14 @@
 > A one-stop platform to prepare for tech interviews with DSA, HR prep, and mock rounds.
 
 **🛠️ Tech Stack:**  Next.js – Tailwind CSS – Node.js – Express.js – MongoDB  
-🔗 [**Live Site**](https://prepwiz.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Interview_Prep_Frontend)
-
+🔗 [**Live Site**](https://prepwiz.vercel.app) 
 ---
 
 ### 💬 Convofyy – Real-time Chat App  
 > A secure chat app with login, real-time messaging, and collaboration tools.
 
 **🛠️ Tech Stack:**  Next.js – Tailwind CSS – Express.js – MongoDB – Socket.IO  
-🔗 [**Live Site**](https://convofyy.vercel.app) | 🔧 [**GitHub Repo**](https://github.com/SDhinakar/Convofy_Frontend)
-
+🔗 [**Live Site**](https://convofyy.vercel.app) 
 ---
 
 ## 📊 GitHub & LeetCode Stats
